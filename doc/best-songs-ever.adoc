@@ -3,264 +3,288 @@
 :toc:
 :toclevels: 2
 
+== Convention
+
+Songs are bolded and usually grouped by album.
+That means that the usual system is:
+
+* Artist
+	** Album Name
+		*** *Song Name*
+
 == Rock
 
 * Microphones
 	** The Glow, Pt. 2
-		*** I Want Wind To Blow
-		*** I Felt Your Shape
-		*** The Moon
+		*** *I Want Wind To Blow*
+		*** *I Felt Your Shape*
+		*** *The Moon*
 
 * Neutral Milk Hotel
 	** In The Aeroplane Over The Sea
-		*** In The Aeroplane Over The Sea
-		*** King Of Carrot Flowers, Pt. 1
-		*** Holland, 1945
-		*** Two-Headed Boy
+		*** *In The Aeroplane Over The Sea*
+		*** *King Of Carrot Flowers, Pt. 1*
+		*** *Holland, 1945*
+		*** *Two-Headed Boy*
 
 * King Gizzard And The Lizzard Wizard
 	** Polygondwanaland
-		*** Crumbling Castle
+		*** *Crumbling Castle*
 
 * Pink Floyd
 	** The Dark Side Of The Moon
-		*** Time
-		*** The Great Gig In The Sky
-		*** Us And Them
+		*** *Time*
+		*** *The Great Gig In The Sky*
+		*** *Us And Them*
 	** Wish You Were Here
-		*** Wish You Were Here
+		*** *Wish You Were Here*
 
 * Death Cab For Cutie
 	** Plans
-		*** I Will Follow You Into The Dark
+		*** *I Will Follow You Into The Dark*
 
 * Best Coast
 	** Crazy For You
-		*** When I'm With You
+		*** *When I'm With You*
 
 * Panchiko
 	** D>E>A>T>H>M>E>T>A>L
-		*** D>E>A>T>H>M>E>T>A>L
+		*** *D>E>A>T>H>M>E>T>A>L*
 
 * Wilco
 	** Yankee Hotel Foxtrot
-		*** Jesus, Etc.
+		*** *Jesus, Etc.*
 	** Cousin
-		*** Levee
+		*** *Levee*
 
 * Radiohead
 	** OK Computer
-		*** Electioneering
-		*** Climbing Up the Walls
-		*** Fitter Happier
+		*** *Electioneering*
+		*** *Climbing Up the Walls*
+		*** *Fitter Happier*
 	** Kid A
-		*** Everything In Its Right Place
-		*** The National Anthem
-		*** How to Disappear Completely
-		*** Morning Bell
+		*** *Everything In Its Right Place*
+		*** *The National Anthem*
+		*** *How to Disappear Completely*
+		*** *Morning Bell*
 	** In Rainbows
-		*** Jigsaw Falling Into Place
-		*** Videotape
+		*** *Jigsaw Falling Into Place*
+		*** *Videotape*
 	** OKNOTOK 2017
-		*** Man of War
+		*** *Man of War*
 
 * bôa
 	** Twilight
-		*** Duvet
-		*** Elephant
-		*** For Jasmine
-		*** Little Miss
+		*** *Duvet*
+		*** *Elephant*
+		*** *For Jasmine*
+		*** *Little Miss*
 
 * Weatherday
 	** Come In
-		*** Come In
-		*** My Sputnik Sweetheart
+		*** *Come In*
+		*** *My Sputnik Sweetheart*
 
 * Weezer
 	** Weezer (Blue Album)
-		*** Only in Dreams
-		*** Say It Ain't So
-		*** Buddy Holly
+		*** *Only in Dreams*
+		*** *Say It Ain't So*
+		*** *Buddy Holly*
 	** OK Human
-		*** All My Favorite Songs
+		*** *All My Favorite Songs*
 
 * Car Seat Headrest
 	** Twin Fantasy
-		*** Beach Life-In-Death
+		*** *Beach Life-In-Death*
 	** Teens Of Denial
-		*** Drunk Drivers/Killer Whales
+		*** *Drunk Drivers/Killer Whales*
 
 == Soul, R'n'B
 
 * Marvin Gaye
 	** What's Going On
-		*** What's Going On
-		*** Mercy Mercy Me
+		*** *What's Going On*
+		*** *Mercy Mercy Me*
 
 * Frank Ocean
 	** Blonde
-		*** Skyline To
-		*** Solo
-		*** Self Control
+		*** *Skyline To*
+		*** *Solo*
+		*** *Self Control*
 	** channel ORANGE
-		*** Pyramids
-		*** Bad Religion
+		*** *Pyramids*
+		*** *Bad Religion*
 
 * PARTYNEXTDOOR
 	** PARTYNEXTDOOR
-		*** Break From Toronto
+		*** *Break From Toronto*
 
 == Hip-hop
 
 * Kanye West
 	** The College Dropout
-		*** All Falls Down
+		*** *All Falls Down*
 	** Late Registration
-		*** Roses
+		*** *Roses*
 	** Graduation
-		*** Everything I Am
-		*** Homecoming
+		*** *Everything I Am*
+		*** *Homecoming*
 	** My Beautiful Dark Twisted Fantasy
-		*** Lost In The World
-		*** Gorgeous
-		*** Devil In A New Dress
-		*** Hell Of A Life
-		*** Blame Game
-		*** All Of The Lights
+		*** *Lost In The World*
+		*** *Gorgeous*
+		*** *Devil In A New Dress*
+		*** *Hell Of A Life*
+		*** *Blame Game*
+		*** *All Of The Lights*
 	** Yeezus
-		*** Black Skinhead
-		*** Bound 2
-		*** I'm In It
+		*** *Black Skinhead*
+		*** *Bound 2*
+		*** *I'm In It*
 	** Life Of Pablo
-		*** 30 Hours
+		*** *30 Hours*
 	** Unreleased
-		*** Mama's Boyfriend
+		*** *Mama's Boyfriend*
 
 * J Cole
 	** 2014 Forest Hills Drive
-		*** Wet Dreamz
-		*** 03' Adolescence
-		*** Apparently
-	** 4 Your Eyez Only 
-		*** 4 Your Eyez Only
+		*** *Wet Dreamz*
+		*** *03' Adolescence*
+		*** *Apparently*
+	** 4 Your Eyez Only
+		*** *4 Your Eyez Only*
 
 * Clipse
 	** Let God Sort Em Out
-		*** The Birds Don't Sing
+		*** *The Birds Don't Sing*
 
 * Domo Genesis
 	** Intros, Outros & Interludes
-		*** Don't Believe Half
-		*** Victories & Losses
+		*** *Don't Believe Half*
+		*** *Victories & Losses*
 	** Red Corolla
-		*** Honestly, Just Wanna Have a Good Time
+		*** *Honestly, Just Wanna Have a Good Time*
 
 * Lupe Fiasco
 	** DROGAS WAVE
-		*** King Nas
+		*** *King Nas*
 	** Samurai
-		*** Samurai
+		*** *Samurai*
 
 * Drake
 	** Take Care
-		*** Under Ground Kings
+		*** *Under Ground Kings*
 	** Nothing Was The Same
-		*** Tuscan Leather
-		*** Connect
+		*** *Tuscan Leather*
+		*** *Connect*
 	** If You're Reading This It's Too Late
-		*** 6PM In New York
+		*** *6PM In New York*
 
 * Earl Sweatshirt
 	** Some Rap Songs
-		*** Cold Summers
-		*** Riot!
+		*** *Cold Summers*
+		*** *Riot!*
 	** VOIR DARE
-		*** Vin Skully
+		*** *Vin Skully*
 
 * Killer Mike
 	** MICHAEL
-		*** DOWN BY LAW
-		*** SCIENTISTS & ENGINEERS
+		*** *DOWN BY LAW*
+		*** *SCIENTISTS & ENGINEERS*
 
 * Flying Lotus
 	** Flamagra
-		*** Black Baloons Reprise
+		*** *Black Baloons Reprise*
 
 * Freddie Gibbs
 	** Alfredo
-		*** 1985
-		*** Scottie Beam
+		*** *1985*
+		*** *Scottie Beam*
 	** Bandana
-		*** Freestyle S**t
+		*** *Freestyle Shit*
 
 * Joey Valence & BRAE
 	** NO HANDS
-		*** NO HANDS
+		*** *NO HANDS*
 
 * JPEGMAFIA
 	** Veteran
-		*** 1539 N. Calvert
-		*** Baby I'm Bleeding
-		*** Thug Tears
+		*** *1539 N. Calvert*
+		*** *Baby I'm Bleeding*
+		*** *Thug Tears*
 	** All My Heroes Are Cornballs
-		*** Jesus Forgive Me, I Am A Thot
-		*** Grimy Waifu
-		*** PTSD
-		*** Free The Frail
-		*** Post Verified Lifestyle
+		*** *Jesus Forgive Me, I Am A Thot*
+		*** *Grimy Waifu*
+		*** *PTSD*
+		*** *Free The Frail*
+		*** *Post Verified Lifestyle*
 	** LP!
-		*** DIRTY!
+		*** *DIRTY!*
 	** OFFLINE!
-		*** HAZARD DUTY PAY!
-		*** GOD DON'T LIKE UGLY!
-		*** DIKEMBE!
+		*** *HAZARD DUTY PAY!*
+		*** *GOD DON'T LIKE UGLY!*
+		*** *DIKEMBE!*
 
 * Kendrick Lamar
 	** Section.80
-		*** Poe Mans Dreams (His Vice)
-		*** Chapter Six
+		*** *Poe Mans Dreams (His Vice)*
+		*** *Chapter Six*
 	** good kid, m.A.A.d. city
-		*** The Art of Peer Pressure
-		*** Poetic Justice
-		*** Sing About Me, I'm Dying Of Thirst
+		*** *The Art of Peer Pressure*
+		*** *Poetic Justice*
+		*** *Sing About Me, I'm Dying Of Thirst*
 	** To Pimp A Butterfly
-		*** For Free?
-		*** u
-		*** Momma
-		*** You Ain't Gotta Lie (Momma Said)
-		*** Mortal Man
+		*** *For Free?*
+		*** *u*
+		*** *Momma*
+		*** *You Ain't Gotta Lie (Momma Said)*
+		*** *Mortal Man*
 	** DAMN.
-		*** FEAR.
-		*** XXX.
-		*** DUCKWORTH.
+		*** *FEAR.*
+		*** *XXX.*
+		*** *DUCKWORTH.*
 	** Mr. Morale
-		*** United In Grief
-		*** Mother I Sober
+		*** *United In Grief*
+		*** *Mother I Sober*
 
 * Boldy James
 	** Fair Exchange No Robbery
-		*** Town & Country
+		*** *Town & Country*
 
 * Jeremiah Jae
 	** The Night Took Us in Like Family
-		*** Taken by the Night
-		*** Kicking Glass
+		*** *Taken by the Night*
+		*** *Kicking Glass*
 
 == Electronic
 
 * Aphex Twin
+	** Drukqs
+		*** *Vordhosbn*
+		*** *Avril 14th* (BTW, I made a chiptune cover of this! It's on https://modarchive.org/module.php?205897[TheModArchive] and https://www.youtube.com/watch?v=LcGW8usklVU[YouTube]!)
+	** Selected Ambient Works 85-92
+		*** *Xtal*
+		*** *Ageispolis*
+	** Richard D. James Album
+		*** *4*
+		*** *Fingerbib*
+		*** *Yellow Calx*
 
 * Burial
+	** Untrue
+		*** *Archangel*
+		*** *Near Dark*
+		*** *Ghost Hardware*
+		*** *In McDonalds*
+		*** *Untrue*
 
 == Experimental
 
 * Björk
 	** Vespertine
-		*** Cocoon
+		*** *Cocoon*
 
 == Pop
 
 * Noisettes
 	** Wild Young Hearts
-		*** Never Forget You
-
+		*** *Never Forget You*
