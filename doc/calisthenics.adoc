@@ -1,31 +1,31 @@
-
 = Calisthenics
+:toc:
+:toclevels: 2
 
 Calisthenics is a form of training that relies on your own body weight.
-It's very easy to do anywhere, meaning even at home, which is why it's my go-to.
+It's very easy to do anywhere, even at home, which is why it's my go-to.
 
-Here's a list of exercises, as well as the muscles worked by them:
+Below is a categorized list of exercises and the muscles primarily and secondarily worked.
+
+== Push Exercises
 
 [cols="1,1,1"]
 |===
+| Exercise | Primary Muscles | Secondary Muscles
 
-| Exercise
-| Goal muscles worked
-| Other muscles worked
-
-| Pushups
+| Push-ups
 | Chest
 | Triceps, shoulders
 
-| Decline Pushups
+| Decline Push-ups
 | Upper chest
 |
 
-| Diamond Pushups
+| Diamond Push-ups
 | Inner chest, triceps
 |
 
-| Pike Pushups
+| Pike Push-ups
 | Shoulders
 |
 
@@ -36,6 +36,13 @@ Here's a list of exercises, as well as the muscles worked by them:
 | Bench Dips
 | Triceps
 |
+|===
+
+== Pull Exercises
+
+[cols="1,1,1"]
+|===
+| Exercise | Primary Muscles | Secondary Muscles
 
 | Pull-ups
 | Lats
@@ -52,6 +59,13 @@ Here's a list of exercises, as well as the muscles worked by them:
 | Supermans
 | Lower back, glutes, hamstrings
 |
+|===
+
+== Leg Exercises
+
+[cols="1,1,1"]
+|===
+| Exercise | Primary Muscles | Secondary Muscles
 
 | Squats
 | Quadriceps, glutes, hamstrings
@@ -61,20 +75,27 @@ Here's a list of exercises, as well as the muscles worked by them:
 | Quadriceps, glutes, hamstrings
 |
 
-| Leg Raises
-| Lower abs
+| Bulgarian Split Squats
+| Quads, glutes, hamstrings
 |
 
-| Bulgarian Split Squats
-| Quads, Glutes, Hamstrings
+| Pistol Squats
+| Quads, glutes
 |
 
 | Calf Raises
 | Calves
 |
+|===
 
-| Pistol Squats
-| Quads, Glutes
+== Core Exercises
+
+[cols="1,1,1"]
+|===
+| Exercise | Primary Muscles | Secondary Muscles
+
+| Leg Raises
+| Lower abs
 |
 
 | Body Saw Planks
@@ -82,12 +103,12 @@ Here's a list of exercises, as well as the muscles worked by them:
 |
 
 | Full Plank Arm Extensions
-| Core, shoulders, triceps
-|
+| Core
+| Shoulders, triceps
 
-| Full Plank Shoulde Taps
-| Core, shoulders, triceps
-|
+| Full Plank Shoulder Taps
+| Core
+| Shoulders, triceps
 
 | L-Sit Hold
 | Core
@@ -96,6 +117,5 @@ Here's a list of exercises, as well as the muscles worked by them:
 | Hollow Body Hold
 | Core
 |
-
 |===
 
