@@ -11,9 +11,7 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| Exercise | Primary Muscles | Secondary Muscles
 
 | Push-ups
 | Chest
@@ -44,9 +42,7 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| Exercise | Primary Muscles | Secondary Muscles
 
 | Pull-ups
 | Back
@@ -69,9 +65,7 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| Exercise | Primary Muscles | Secondary Muscles
 
 | Squats
 | Quads, glutes
@@ -98,9 +92,7 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| Exercise | Primary Muscles | Secondary Muscles
 
 | Leg Raises
 | Lower abs
