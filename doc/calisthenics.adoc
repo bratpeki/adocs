@@ -11,7 +11,6 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-
 | Exercise
 | Primary Muscles
 | Secondary Muscles
@@ -39,14 +38,12 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 | Bench Dips
 | Triceps
 | Chest, shoulders
-
 |===
 
 == Pull Exercises
 
 [cols="1,1,1"]
 |===
-
 | Exercise
 | Primary Muscles
 | Secondary Muscles
@@ -66,14 +63,12 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 | Supermans
 | Lower back
 | Glutes, hamstrings
-
 |===
 
 == Leg Exercises
 
 [cols="1,1,1"]
 |===
-
 | Exercise
 | Primary Muscles
 | Secondary Muscles
@@ -97,14 +92,12 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 | Calf Raises
 | Calves
 |
-
 |===
 
 == Core Exercises
 
 [cols="1,1,1"]
 |===
-
 | Exercise
 | Primary Muscles
 | Secondary Muscles
@@ -132,6 +125,5 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 | Hollow Body Hold
 | Core
 |
-
 |===
 
