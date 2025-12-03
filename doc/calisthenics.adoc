@@ -1,0 +1,101 @@
+
+= Calisthenics
+
+Calisthenics is a form of training that relies on your own body weight.
+It's very easy to do anywhere, meaning even at home, which is why it's my go-to.
+
+Here's a list of exercises, as well as the muscles worked by them:
+
+[cols="1,1,1"]
+|===
+
+| Exercise
+| Goal muscles worked
+| Other muscles worked
+
+| Pushups
+| Chest
+| Triceps, shoulders
+
+| Decline Pushups
+| Upper chest
+|
+
+| Diamond Pushups
+| Inner chest, triceps
+|
+
+| Pike Pushups
+| Shoulders
+|
+
+| Tricep Dips
+| Triceps
+|
+
+| Bench Dips
+| Triceps
+|
+
+| Pull-ups
+| Lats
+| Biceps, forearms
+
+| Chin-ups
+| Biceps
+| Lats, forearms
+
+| Inverted Rows
+| Back
+| Biceps
+
+| Supermans
+| Lower back, glutes, hamstrings
+|
+
+| Squats
+| Quadriceps, glutes, hamstrings
+|
+
+| Lunges
+| Quadriceps, glutes, hamstrings
+|
+
+| Leg Raises
+| Lower abs
+|
+
+| Bulgarian Split Squats
+| Quads, Glutes, Hamstrings
+|
+
+| Calf Raises
+| Calves
+|
+
+| Pistol Squats
+| Quads, Glutes
+|
+
+| Body Saw Planks
+| Core
+|
+
+| Full Plank Arm Extensions
+| Core, shoulders, triceps
+|
+
+| Full Plank Shoulde Taps
+| Core, shoulders, triceps
+|
+
+| L-Sit Hold
+| Core
+|
+
+| Hollow Body Hold
+| Core
+|
+
+|===
+
