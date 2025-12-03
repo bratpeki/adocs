@@ -3,15 +3,18 @@
 :toclevels: 2
 
 Calisthenics is a form of training that relies on your own body weight.
+
 It's very easy to do anywhere, even at home, which is why it's my go-to.
 
-Below is a categorized list of exercises and the muscles primarily and secondarily worked.
+Below is a categorized list of exercises and the muscles worked by them.
 
 == Push Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
 | Push-ups
 | Chest
@@ -42,7 +45,9 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
 | Pull-ups
 | Back
@@ -65,7 +70,9 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
 | Squats
 | Quads, glutes
@@ -75,6 +82,10 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 | Quads, glutes
 | Hamstrings
 
+| Calf Raises
+| Calves
+|
+
 | Bulgarian Split Squats
 | Quads, glutes
 | Hamstrings
@@ -82,20 +93,18 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 | Pistol Squats
 | Quads, glutes
 | Hamstrings, core
-
-| Calf Raises
-| Calves
-|
 |===
 
 == Core Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
-| Leg Raises
-| Lower abs
+| L-Sit Hold
+| Core
 | Hip flexors
 
 | Body Saw Planks
@@ -110,8 +119,8 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 | Core
 | Shoulders, triceps
 
-| L-Sit Hold
-| Core
+| Leg Raises
+| Lower abs
 | Hip flexors
 
 | Hollow Body Hold
