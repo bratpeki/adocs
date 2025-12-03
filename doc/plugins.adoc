@@ -3,36 +3,38 @@
 
 == General List of Plugins
 
-* Gain
-	** Amplifier
-	** Panning
+* Creative
+	** Frequency Shifter
+
+* Distortion
+	** Bitcrush
+	** Saturation
+		*** Tape
+		*** Tube
+	** Waveshaper
 
 * Dynamics
-	** Limiter
-	** Compressor
 	** Clipper
-	** Gate
+	** Compressor
 	** Deesser
+	** Gate
+	** Limiter
 	** Transient Shaper
-
-* Stereo
-	** Narrower
-	** Widener
 
 * Frequency
 	** Equalizer
 	** Highpass Filter
 	** Lowpass Filter
 
-* Pitch
-	** Autotune
-	** Pitch Shifter
+* Gain
+	** Amplifier
+	** Panning
 
-* Multiband
-	** Multiband Compressor
-
-* Sidechain
-	** Sidechain Compressor
+* Metering
+	** Coniometer
+	** Oscilloscope
+	** Spectral Display
+	** Waveform Display
 
 * Mid/Side
 	** Mid/Side EQ
@@ -42,26 +44,24 @@
 	** Flanger
 	** Phaser
 
-* Distortion
-	** Waveshaper
-	** Bitcrush
-	** Saturation
-		*** Tape
-		*** Tube
+* Multiband
+	** Multiband Compressor
 
-* Creative
-	** Frequency Shifter
+* Pitch
+	** Autotune
+	** Pitch Shifter
+
+* Sidechain
+	** Sidechain Compressor
 
 * Spatial
-	** Reverb
 	** Echo (or Delay)
+	** Reverb
+
+* Stereo
+	** Narrower
+	** Widener
 
 * Utility
 	** Inverter
-
-* Metering
-	** Coniometer
-	** Waveform Display
-	** Oscilloscope
-	** Spectral Display
 
