@@ -1,0 +1,45 @@
+
+= List of Plugin Types
+
+I am also mentioning the stuff in nightly LMMS that suites those purposes.
+
+* Gain
+	** Amplifier
+	** Panning
+
+* Dynamics
+	** Limiter
+	** Compressor
+	** Clipper
+
+* Stereo
+	** Narrower
+	** Widener
+
+* Frequency
+	** Equalizer
+	** Highpass Filter
+	** Lowpass Filter
+	** Frequency Shifter
+
+* Pitch
+	** Autotune
+	** Pitch Shifter
+
+* Multiband
+	** Multiband Compressor
+
+* Sidechain
+	** Sidechain Compressor
+
+* Distortion
+	** Waveshaper
+	** Bitcrush
+
+* Spatial
+	** Reverb
+	** Echo (or Delay)
+
+* Utility
+	** Inverter
+
