@@ -11,7 +11,10 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
 | Push-ups
 | Chest
@@ -19,88 +22,100 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 | Decline Push-ups
 | Upper chest
-|
+| Shoulders, triceps
 
 | Diamond Push-ups
-| Inner chest, triceps
-|
+| Chest, triceps
+| Shoulders
 
 | Pike Push-ups
 | Shoulders
-|
+| Chest, triceps
 
 | Tricep Dips
 | Triceps
-|
+| Chest, shoulders
 
 | Bench Dips
 | Triceps
-|
+| Chest, shoulders
+
 |===
 
 == Pull Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
 | Pull-ups
-| Lats
+| Back
 | Biceps, forearms
 
 | Chin-ups
 | Biceps
-| Lats, forearms
+| Back, forearms
 
 | Inverted Rows
 | Back
 | Biceps
 
 | Supermans
-| Lower back, glutes, hamstrings
-|
+| Lower back
+| Glutes, hamstrings
+
 |===
 
 == Leg Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
 | Squats
-| Quadriceps, glutes, hamstrings
-|
+| Quads, glutes
+| Hamstrings
 
 | Lunges
-| Quadriceps, glutes, hamstrings
-|
+| Quads, glutes
+| Hamstrings
 
 | Bulgarian Split Squats
-| Quads, glutes, hamstrings
-|
+| Quads, glutes
+| Hamstrings
 
 | Pistol Squats
 | Quads, glutes
-|
+| Hamstrings, core
 
 | Calf Raises
 | Calves
 |
+
 |===
 
 == Core Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise | Primary Muscles | Secondary Muscles
+
+| Exercise
+| Primary Muscles
+| Secondary Muscles
 
 | Leg Raises
 | Lower abs
-|
+| Hip flexors
 
 | Body Saw Planks
 | Core
-|
+| Shoulders
 
 | Full Plank Arm Extensions
 | Core
@@ -112,10 +127,11 @@ Below is a categorized list of exercises and the muscles primarily and secondari
 
 | L-Sit Hold
 | Core
-|
+| Hip flexors
 
 | Hollow Body Hold
 | Core
 |
+
 |===
 
