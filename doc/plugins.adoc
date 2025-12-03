@@ -1,7 +1,7 @@
 
 = List of Plugin Types
 
-I am also mentioning the stuff in nightly LMMS that suites those purposes.
+== General List of Plugins
 
 * Gain
 	** Amplifier
@@ -11,6 +11,9 @@ I am also mentioning the stuff in nightly LMMS that suites those purposes.
 	** Limiter
 	** Compressor
 	** Clipper
+	** Gate
+	** Deesser
+	** Transient Shaper
 
 * Stereo
 	** Narrower
@@ -20,7 +23,6 @@ I am also mentioning the stuff in nightly LMMS that suites those purposes.
 	** Equalizer
 	** Highpass Filter
 	** Lowpass Filter
-	** Frequency Shifter
 
 * Pitch
 	** Autotune
@@ -32,9 +34,23 @@ I am also mentioning the stuff in nightly LMMS that suites those purposes.
 * Sidechain
 	** Sidechain Compressor
 
+* Mid/Side
+	** Mid/Side EQ
+
+* Modulation
+	** Chorus
+	** Flanger
+	** Phaser
+
 * Distortion
 	** Waveshaper
 	** Bitcrush
+	** Saturation
+		*** Tape
+		*** Tube
+
+* Creative
+	** Frequency Shifter
 
 * Spatial
 	** Reverb
@@ -42,4 +58,10 @@ I am also mentioning the stuff in nightly LMMS that suites those purposes.
 
 * Utility
 	** Inverter
+
+* Metering
+	** Coniometer
+	** Waveform Display
+	** Oscilloscope
+	** Spectral Display
 
