@@ -1,131 +1,149 @@
 
-= Calisthenics
+= List of Calisthenic Exercises
 :toc:
-:toclevels: 2
-
-Calisthenics is a form of training that relies on your own body weight.
-
-It's very easy to do anywhere, even at home, which is why it's my go-to.
-
-Below is a categorized list of exercises and the muscles worked by them.
 
 == Push Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| *Exercise*
+| *Primary Muscles*
+| *Secondary Muscles*
 
-| Push-ups
+| *Push-ups*
 | Chest
-| Triceps, shoulders
+| Triceps, Shoulders
 
-| Decline Push-ups
-| Upper chest
-| Shoulders, triceps
+| *Decline Push-ups*
+| Upper Chest
+| Shoulders, Triceps
 
-| Diamond Push-ups
-| Chest, triceps
+| *Diamond Push-ups*
+| Chest, Triceps
 | Shoulders
 
-| Pike Push-ups
+| *Pike Push-ups*
 | Shoulders
-| Chest, triceps
+| Chest, Triceps
 
-| Tricep Dips
+| *Tricep Dips* or *Bench Dips*
 | Triceps
-| Chest, shoulders
-
-| Bench Dips
-| Triceps
-| Chest, shoulders
+| Chest, Shoulders
 |===
 
 == Pull Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| *Exercise*
+| *Primary Muscles*
+| *Secondary Muscles*
 
-| Pull-ups
+| *Pull-ups*
 | Back
-| Biceps, forearms
+| Biceps, Forearms
 
-| Chin-ups
+| *Chin-ups*
 | Biceps
-| Back, forearms
+| Back, Forearms
 
-| Inverted Rows
+| *Inverted Rows*
 | Back
 | Biceps
 
-| Supermans
+| *Superman*
 | Lower back
-| Glutes, hamstrings
+| Glutes, Hamstrings
 |===
 
 == Leg Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| *Exercise*
+| *Primary Muscles*
+| *Secondary Muscles*
 
-| Squats
-| Quads, glutes
+| *Squats*
+| Quads, Glutes
 | Hamstrings
 
-| Lunges
-| Quads, glutes
+| *Lunges*
+| Quads, Glutes
 | Hamstrings
 
-| Calf Raises
+| *Calf Raises*
 | Calves
 |
 
-| Bulgarian Split Squats
-| Quads, glutes
+| *Bulgarian Split Squats*
+| Quads, Glutes
 | Hamstrings
 
-| Pistol Squats
-| Quads, glutes
-| Hamstrings, core
+| *Pistol Squats*
+| Quads, Glutes
+| Hamstrings, Core
 |===
 
 == Core Exercises
 
 [cols="1,1,1"]
 |===
-| Exercise
-| Primary Muscles
-| Secondary Muscles
+| *Exercise*
+| *Primary Muscles*
+| *Secondary Muscles*
 
-| L-Sit Hold
+| *Crunches*
+| Abs
+| Hip Flexors
+
+| *L-Sit Hold*
 | Core
-| Hip flexors
+| Hip Flexors
 
-| Body Saw Planks
+| *Body Saw Planks*
 | Core
 | Shoulders
 
-| Full Plank Arm Extensions
+| *Full Plank Arm Extensions*
 | Core
-| Shoulders, triceps
+| Shoulders, Triceps
 
-| Full Plank Shoulder Taps
+| *Full Plank Shoulder Taps*
 | Core
-| Shoulders, triceps
+| Shoulders, Triceps
 
-| Leg Raises
-| Lower abs
-| Hip flexors
+| *Leg Raises*
+| Lower Abs
+| Hip Flexors
 
-| Hollow Body Hold
+| *Hollow Body Hold*
 | Core
 |
 |===
+
+== Muscles by Group
+
+* Push
+** Chest
+** Shoulders
+** Triceps
+
+* Pull
+** Back
+*** Traps
+*** Lats
+** Biceps
+** Forearms
+
+* Legs
+** Quads
+** Hamstrings
+** Glutes
+** Calves
+
+* Core
+** Abs
+** Obliques
+** Deep Core
 
