@@ -3,7 +3,7 @@
 :toc:
 :toclevels: 2
 
-== Seneca, On The Shortness Of Life
+== Seneca, "On the Shortness of Life"
 
 * Life is long enough, and it's been given to us in generous measure for accomplishing the greatest things,
 if the whole of it is well invested. But when life is squandered through soft and careless living,
@@ -26,10 +26,34 @@ all the years that have gone before are added to their own.
 
 * There is a common saying that it was not in our power to choose the parents we were allotted, and that they were given to us by chance;
 yet we can be born to whomever we wish. There are households of the most distinguished intellects: choose the one into which
-you'd like to be adopted, and you'll inherit not just the name but also the actual property _[...]_.
+you'd like to be adopted, and you'll inherit not just the name but also the actual property [...].
 
 * But for those who forget the past, disregard the present, and fear for the future, life is very brief and very troubled.
 
 * But the time of actual enjoyment is short and fleeting, and made far shorter by their own fault;
 for they desert one pleasure for another and cannot persist steadily in any one desire.
+
+== Seneca, "Moral letters to Lucilius" (alternatively, "Letters from a Stoic")
+
+* There are more things [...] to frighten us than there are to crush us; we suffer more often in imagination than in reality.
+
+== Marcus Aurelius, Meditations
+
+* The happiness of your life depends upon the quality of your thoughts.
+
+* Reject your sense of injury and the injury itself disappears.
+
+* Waste no more time arguing about what a good man should be. Be one.
+
+* The best revenge is to be unlike him who performed the injury.
+
+* I have often wondered how it is that every man loves himself more than all the rest of men,
+but yet sets less value on his own opinion of himself than on the opinion of others.
+
+* It is not death that a man should fear, but he should fear never beginning to live.
+
+* Both the longest to live and the earliest to die suffer the same loss.
+
+* To observe [...] what death is [...] he will then consider it to be nothing else than an operation of nature;
+and if any one is afraid of an operation of nature, he is a child.
 
