@@ -2,10 +2,47 @@
 = List of Calisthenic Exercises
 :toc:
 
-== Push Exercises
+Allows easily looking up what exercises hit what muscle group,
+so you can make a routine that works best for you and still hits everything.
+
+== Muscles by Group
+
+* Push
+** Chest
+** Shoulders
+** Triceps
+
+* Pull
+** Back
+*** Traps
+*** Lats
+*** Lower Back
+** Biceps
+** Forearms
+** Rear Deltoids (Back of the shoulders)
+
+* Legs
+** Quads
+** Hamstrings
+** Glutes
+** Calves
+** Adductors and Abductors
+
+* Core
+** Abs
+** Obliques
+** Deep Core
+** Hip Flexors
+
+* Neck
+
+== Exercises
+
+=== Push
 
 [cols="1,1,1"]
 |===
+
 | *Exercise*
 | *Primary Muscles*
 | *Secondary Muscles*
@@ -29,12 +66,14 @@
 | *Tricep Dips* or *Bench Dips*
 | Triceps
 | Chest, Shoulders
+
 |===
 
-== Pull Exercises
+=== Pull
 
 [cols="1,1,1"]
 |===
+
 | *Exercise*
 | *Primary Muscles*
 | *Secondary Muscles*
@@ -54,12 +93,18 @@
 | *Superman*
 | Lower back
 | Glutes, Hamstrings
+
+| *Glute Bridges*
+| Lower back
+|
+
 |===
 
-== Leg Exercises
+=== Legs
 
 [cols="1,1,1"]
 |===
+
 | *Exercise*
 | *Primary Muscles*
 | *Secondary Muscles*
@@ -80,15 +125,29 @@
 | Quads, Glutes
 | Hamstrings
 
+| *Seated Leg Raises*
+| Hip Flexors
+|
+
+| *Sumo Squats*
+| Adductors
+|
+
+| *Side-Lying Leg Raises*
+| Abductors
+|
+
 | *Pistol Squats*
 | Quads, Glutes
 | Hamstrings, Core
+
 |===
 
-== Core Exercises
+=== Core
 
 [cols="1,1,1"]
 |===
+
 | *Exercise*
 | *Primary Muscles*
 | *Secondary Muscles*
@@ -120,30 +179,27 @@
 | *Hollow Body Hold*
 | Core
 |
+
 |===
 
-== Muscles by Group
+=== Neck
+[cols="1,1,1"]
+|===
 
-* Push
-** Chest
-** Shoulders
-** Triceps
+| *Exercise*
+| *Primary Muscles*
+| *Secondary Muscles*
 
-* Pull
-** Back
-*** Traps
-*** Lats
-** Biceps
-** Forearms
+| *Lie Down Head Lifts* (Front, Back and Side)
+| Neck
+|
 
-* Legs
-** Quads
-** Hamstrings
-** Glutes
-** Calves
+| *Chin Tucks*
+| Neck
+|
 
-* Core
-** Abs
-** Obliques
-** Deep Core
+| *Isometric Neck Holds*
+| Neck
+|
 
+|===
