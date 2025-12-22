@@ -8,33 +8,34 @@ so you can make a routine that works best for you and still hits everything.
 == Muscles by Group
 
 * Push
-** Chest
-** Shoulders
-** Triceps
+	** Chest
+	** Shoulders
+	** Triceps
 
 * Pull
-** Back
-*** Traps
-*** Lats
-*** Lower Back
-** Biceps
-** Forearms
-** Rear Deltoids (Back of the shoulders)
+	** Back
+		*** Traps
+		*** Lats
+		*** Rhomboids
+	** Biceps
+	** Rear Delts (technically part of the shoulder, but trained by pulling)
+	** Forearms
 
 * Legs
-** Quads
-** Hamstrings
-** Glutes
-** Calves
-** Adductors and Abductors
+	** Quads
+	** Hamstrings
+	** Glutes
+	** Calves, Tibialis Anterior (opposite each other)
+	** Adductors, Abductors (opposite each other)
 
 * Core
-** Abs
-** Obliques
-** Deep Core
-** Hip Flexors
+	** Abs, Deep Core
+	** Obliques
+	** Lower Back
+	** Hip Flexors
 
-* Neck
+* Misc
+	** Neck
 
 == Exercises
 
@@ -56,14 +57,14 @@ so you can make a routine that works best for you and still hits everything.
 | Shoulders, Triceps
 
 | *Diamond Push-ups*
-| Chest, Triceps
-| Shoulders
+| Triceps
+| Chest, Shoulders
 
 | *Pike Push-ups*
 | Shoulders
 | Chest, Triceps
 
-| *Tricep Dips* or *Bench Dips*
+| *Tricep Dips*
 | Triceps
 | Chest, Shoulders
 
@@ -80,7 +81,7 @@ so you can make a routine that works best for you and still hits everything.
 
 | *Pull-ups*
 | Back
-| Biceps, Forearms
+| Biceps, Forearms, Rear Delts
 
 | *Chin-ups*
 | Biceps
@@ -88,15 +89,7 @@ so you can make a routine that works best for you and still hits everything.
 
 | *Inverted Rows*
 | Back
-| Biceps
-
-| *Superman*
-| Lower back
-| Glutes, Hamstrings
-
-| *Glute Bridges*
-| Lower back
-|
+| Biceps, Forearms, Rear Delts
 
 |===
 
@@ -117,13 +110,9 @@ so you can make a routine that works best for you and still hits everything.
 | Quads, Glutes
 | Hamstrings
 
-| *Calf Raises*
-| Calves
-|
-
 | *Bulgarian Split Squats*
 | Quads, Glutes
-| Hamstrings
+| Hamstrings, Calves
 
 | *Seated Leg Raises*
 | Hip Flexors
@@ -135,6 +124,10 @@ so you can make a routine that works best for you and still hits everything.
 
 | *Side-Lying Leg Raises*
 | Abductors
+|
+
+| *Calf Raises* and *Elevated Calf Raises*
+| Calves
 |
 
 | *Pistol Squats*
@@ -157,19 +150,19 @@ so you can make a routine that works best for you and still hits everything.
 | Hip Flexors
 
 | *L-Sit Hold*
-| Core
+| Deep Core
 | Hip Flexors
 
 | *Body Saw Planks*
-| Core
-| Shoulders
+| Deep Core
+| Shoulders, Calves
 
 | *Full Plank Arm Extensions*
-| Core
+| Deep Core
 | Shoulders, Triceps
 
 | *Full Plank Shoulder Taps*
-| Core
+| Deep Core
 | Shoulders, Triceps
 
 | *Leg Raises*
@@ -177,12 +170,25 @@ so you can make a routine that works best for you and still hits everything.
 | Hip Flexors
 
 | *Hollow Body Hold*
-| Core
+| Deep Core
 |
+
+| *Superman*
+| Lower back
+| Glutes, Hamstrings
+
+| *Russian Twists*
+| Obliques
+| Abs, Deep Core
+
+| *Side Planks*
+| Obliques
+| Deep Core, Shoulders
 
 |===
 
-=== Neck
+=== Misc
+
 [cols="1,1,1"]
 |===
 
