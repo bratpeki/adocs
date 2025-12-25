@@ -56,15 +56,15 @@ so you can make a routine that works best for you and still hits everything.
 | Upper Chest
 | Shoulders, Triceps
 
-| *Diamond Push-ups*
-| Triceps
-| Chest, Shoulders
-
 | *Pike Push-ups*
 | Shoulders
 | Chest, Triceps
 
 | *Tricep Dips*
+| Triceps
+| Chest, Shoulders
+
+| *Diamond Push-ups*
 | Triceps
 | Chest, Shoulders
 
@@ -83,13 +83,13 @@ so you can make a routine that works best for you and still hits everything.
 | Back
 | Biceps, Forearms, Rear Delts
 
-| *Chin-ups*
-| Biceps
-| Back, Forearms
-
 | *Inverted Rows*
 | Back
 | Biceps, Forearms, Rear Delts
+
+| *Chin-ups*
+| Biceps
+| Back, Forearms
 
 |===
 
@@ -114,8 +114,12 @@ so you can make a routine that works best for you and still hits everything.
 | Quads, Glutes
 | Hamstrings, Calves
 
-| *Seated Leg Raises*
-| Hip Flexors
+| *Pistol Squats*
+| Quads, Glutes
+| Hamstrings, Core
+
+| *Calf Raises* and *Elevated Calf Raises*
+| Calves
 |
 
 | *Sumo Squats*
@@ -125,14 +129,6 @@ so you can make a routine that works best for you and still hits everything.
 | *Side-Lying Leg Raises*
 | Abductors
 |
-
-| *Calf Raises* and *Elevated Calf Raises*
-| Calves
-|
-
-| *Pistol Squats*
-| Quads, Glutes
-| Hamstrings, Core
 
 |===
 
@@ -146,6 +142,10 @@ so you can make a routine that works best for you and still hits everything.
 | *Secondary Muscles*
 
 | *Crunches*
+| Abs
+| Hip Flexors
+
+| *Lying Leg Raises*
 | Abs
 | Hip Flexors
 
@@ -165,25 +165,29 @@ so you can make a routine that works best for you and still hits everything.
 | Deep Core
 | Shoulders, Triceps
 
-| *Leg Raises*
-| Lower Abs
-| Hip Flexors
-
 | *Hollow Body Hold*
 | Deep Core
 |
-
-| *Superman*
-| Lower back
-| Glutes, Hamstrings
 
 | *Russian Twists*
 | Obliques
 | Abs, Deep Core
 
+| *Heel Touches*
+| Obliques
+| Abs
+
 | *Side Planks*
 | Obliques
 | Deep Core, Shoulders
+
+| *Superman*
+| Lower back
+| Glutes, Hamstrings
+
+| *Seated Leg Raises*
+| Hip Flexors
+|
 
 |===
 
