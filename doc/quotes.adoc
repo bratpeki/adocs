@@ -35,9 +35,9 @@ for they desert one pleasure for another and cannot persist steadily in any one 
 
 == Seneca, "Moral letters to Lucilius" (alternatively, "Letters from a Stoic")
 
-* There are more things [...] to frighten us than there are to crush us; we suffer more often in imagination than in reality.
+* There are more things [...] likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.
 
-== Marcus Aurelius, Meditations
+== Marcus Aurelius, "Meditations"
 
 * The happiness of your life depends upon the quality of your thoughts.
 
@@ -56,4 +56,30 @@ but yet sets less value on his own opinion of himself than on the opinion of oth
 
 * To observe [...] what death is [...] he will then consider it to be nothing else than an operation of nature;
 and if any one is afraid of an operation of nature, he is a child.
+
+== Albert Camus, "The Myth of Sisyphus and Other Essays"
+
+* There is but one truly serious philosophical problem, and that is suicide.
+Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy.
+
+* Beginning to think is beginning to be undermined.
+
+* The mind’s first step is to distinguish what is true from what is false.
+
+* A man who has become conscious of The Absurd is forever bound to it.
+
+* The Absurd enlightens me on this point: there is no future. Henceforth this is the reason for my inner freedom.
+
+* You know the alternative:
+either we are not free and God the all-powerful is responsible for evil.
+Or we are free and responsible but God is not all-powerful.
+All the scholastic subtleties have neither added anything to nor subtracted anything from the acuteness of this paradox.
+
+* The struggle itself towards the heights is enough to fill a man's heart.
+
+And, somewhat less thematically bound, but still interesting:
+
+* A man is more a man through the things he keeps to himself than through those he says.
+
+* Why should it be essential to love rarely in order to love much?
 
