@@ -3,289 +3,180 @@
 :toc:
 :toclevels: 2
 
-== Convention
-
-Songs are bolded and usually grouped by album.
-That means that the usual system is:
-
-* Artist
-	** Album Name
-		*** *Song Name*
-
 == Rock
 
-* Microphones
-	** The Glow, Pt. 2
-		*** *I Want Wind To Blow*
-		*** *I Felt Your Shape*
-		*** *The Moon*
+* Microphones - *I Want Wind To Blow*
+* Microphones - *I Felt Your Shape*
+* Microphones - *The Moon*
 
-* Neutral Milk Hotel
-	** In The Aeroplane Over The Sea
-		*** *In The Aeroplane Over The Sea*
-		*** *King Of Carrot Flowers, Pt. 1*
-		*** *Holland, 1945*
-		*** *Two-Headed Boy*
+* Neutral Milk Hotel - *In The Aeroplane Over The Sea*
+* Neutral Milk Hotel - *King Of Carrot Flowers, Pt. 1*
+* Neutral Milk Hotel - *Holland, 1945*
+* Neutral Milk Hotel - *Two-Headed Boy*
 
-* King Gizzard And The Lizzard Wizard
-	** Polygondwanaland
-		*** *Crumbling Castle*
+* King Gizzard And The Lizzard Wizard - *Crumbling Castle*
 
-* Pink Floyd
-	** The Dark Side Of The Moon
-		*** *Time*
-		*** *The Great Gig In The Sky*
-		*** *Us And Them*
-	** Wish You Were Here
-		*** *Wish You Were Here*
+* Pink Floyd - *Time*
+* Pink Floyd - *The Great Gig In The Sky*
+* Pink Floyd - *Us And Them*
+* Pink Floyd - *Wish You Were Here*
 
-* Death Cab For Cutie
-	** Plans
-		*** *I Will Follow You Into The Dark*
+* Death Cab For Cutie - *I Will Follow You Into The Dark*
 
-* Best Coast
-	** Crazy For You
-		*** *When I'm With You*
+* Best Coast - *When I'm With You*
 
-* Panchiko
-	** D>E>A>T>H>M>E>T>A>L
-		*** *D>E>A>T>H>M>E>T>A>L*
+* Panchiko - *D>E>A>T>H>M>E>T>A>L*
 
-* Wilco
-	** Yankee Hotel Foxtrot
-		*** *Jesus, Etc.*
-	** Cousin
-		*** *Levee*
+* Wilco - *Jesus, Etc.*
+* Wilco - *Levee*
 
-* Radiohead
-	** OK Computer
-		*** *Electioneering*
-		*** *Climbing Up the Walls*
-		*** *Fitter Happier*
-	** Kid A
-		*** *Everything In Its Right Place*
-		*** *The National Anthem*
-		*** *How to Disappear Completely*
-		*** *Morning Bell*
-	** In Rainbows
-		*** *Jigsaw Falling Into Place*
-		*** *Videotape*
-	** OKNOTOK 2017
-		*** *Man of War*
+* Radiohead - *Electioneering*
+* Radiohead - *Climbing Up the Walls*
+* Radiohead - *Fitter Happier*
+* Radiohead - *Everything In Its Right Place*
+* Radiohead - *The National Anthem*
+* Radiohead - *How to Disappear Completely*
+* Radiohead - *Morning Bell*
+* Radiohead - *Jigsaw Falling Into Place*
+* Radiohead - *Videotape*
+* Radiohead - *Man of War*
 
-* bôa
-	** Twilight
-		*** *Duvet*
-		*** *Elephant*
-		*** *For Jasmine*
-		*** *Little Miss*
+* bôa - *Duvet*
+* bôa - *Elephant*
+* bôa - *For Jasmine*
+* bôa - *Little Miss*
 
-* Weatherday
-	** Come In
-		*** *Come In*
-		*** *My Sputnik Sweetheart*
+* Weatherday - *Come In*
+* Weatherday - *My Sputnik Sweetheart*
 
-* Weezer
-	** Weezer (Blue Album)
-		*** *Only in Dreams*
-		*** *Say It Ain't So*
-		*** *Buddy Holly*
-	** OK Human
-		*** *All My Favorite Songs*
+* Weezer - *Only in Dreams*
+* Weezer - *Say It Ain't So*
+* Weezer - *Buddy Holly*
+* Weezer - *All My Favorite Songs*
 
-* Car Seat Headrest
-	** Twin Fantasy
-		*** *Beach Life-In-Death*
-	** Teens Of Denial
-		*** *Drunk Drivers/Killer Whales*
+* Car Seat Headrest - *Beach Life-In-Death*
+* Car Seat Headrest - *Drunk Drivers/Killer Whales*
 
 == Soul, R'n'B
 
-* Marvin Gaye
-	** What's Going On
-		*** *What's Going On*
-		*** *Mercy Mercy Me*
+* Marvin Gaye - *What's Going On*
+* Marvin Gaye - *Mercy Mercy Me*
 
-* Frank Ocean
-	** Blonde
-		*** *Skyline To*
-		*** *Solo*
-		*** *Self Control*
-	** channel ORANGE
-		*** *Pyramids*
-		*** *Bad Religion*
+* Frank Ocean - *Skyline To*
+* Frank Ocean - *Solo*
+* Frank Ocean - *Self Control*
+* Frank Ocean - *Pyramids*
+* Frank Ocean - *Bad Religion*
 
-* PARTYNEXTDOOR
-	** PARTYNEXTDOOR
-		*** *Break From Toronto*
+* PARTYNEXTDOOR - *Break From Toronto*
 
 == Hip-hop
 
-* Kanye West
-	** The College Dropout
-		*** *All Falls Down*
-	** Late Registration
-		*** *Roses*
-	** Graduation
-		*** *Everything I Am*
-		*** *Homecoming*
-	** My Beautiful Dark Twisted Fantasy
-		*** *Lost In The World*
-		*** *Gorgeous*
-		*** *Devil In A New Dress*
-		*** *Hell Of A Life*
-		*** *Blame Game*
-		*** *All Of The Lights*
-	** Yeezus
-		*** *Black Skinhead*
-		*** *Bound 2*
-		*** *I'm In It*
-	** Life Of Pablo
-		*** *30 Hours*
-	** Unreleased
-		*** *Mama's Boyfriend*
+* Kayne West - *All Falls Down*
+* Kayne West - *Roses*
+* Kayne West - *Everything I Am*
+* Kayne West - *Homecoming*
+* Kayne West - *Lost In The World*
+* Kayne West - *Gorgeous*
+* Kayne West - *Devil In A New Dress*
+* Kayne West - *Hell Of A Life*
+* Kayne West - *Blame Game*
+* Kayne West - *All Of The Lights*
+* Kayne West - *Black Skinhead*
+* Kayne West - *Bound 2*
+* Kayne West - *I'm In It*
+* Kayne West - *30 Hours*
+* Kayne West - *Mama's Boyfriend*
 
-* J Cole
-	** 2014 Forest Hills Drive
-		*** *Wet Dreamz*
-		*** *03' Adolescence*
-		*** *Apparently*
-	** 4 Your Eyez Only
-		*** *4 Your Eyez Only*
+* J Cole - *Wet Dreamz*
+* J Cole - *03' Adolescence*
+* J Cole - *Apparently*
+* J Cole - *4 Your Eyez Only*
 
-* Clipse
-	** Let God Sort Em Out
-		*** *The Birds Don't Sing*
+* Clipse - *The Birds Don't Sing*
 
-* Domo Genesis
-	** Intros, Outros & Interludes
-		*** *Don't Believe Half*
-		*** *Victories & Losses*
-	** Red Corolla
-		*** *Honestly, Just Wanna Have a Good Time*
+* Domo Genesis - *Don't Believe Half*
+* Domo Genesis - *Victories & Losses*
+* Domo Genesis - *Honestly, Just Wanna Have a Good Time*
 
-* Lupe Fiasco
-	** DROGAS WAVE
-		*** *King Nas*
-	** Samurai
-		*** *Samurai*
+* Lupe Fiasco - *King Nas*
+* Lupe Fiasco - *Samurai*
 
-* Drake
-	** Take Care
-		*** *Under Ground Kings*
-	** Nothing Was The Same
-		*** *Tuscan Leather*
-		*** *Connect*
-	** If You're Reading This It's Too Late
-		*** *6PM In New York*
+* Drake - *Under Ground Kings*
+* Drake - *Tuscan Leather*
+* Drake - *Connect*
+* Drake - *6PM In New York*
 
-* Earl Sweatshirt
-	** Some Rap Songs
-		*** *Cold Summers*
-		*** *Riot!*
-	** VOIR DARE
-		*** *Vin Skully*
+* Earl Sweatshirt - *Cold Summers*
+* Earl Sweatshirt - *Riot!*
+* Earl Sweatshirt - *Vin Skully*
 
-* Killer Mike
-	** MICHAEL
-		*** *DOWN BY LAW*
-		*** *SCIENTISTS & ENGINEERS*
+* Killer Mike - *DOWN BY LAW*
+* Killer Mike - *SCIENTISTS & ENGINEERS*
 
-* Flying Lotus
-	** Flamagra
-		*** *Black Baloons Reprise*
+* Flying Lotus - *Black Baloons Reprise*
 
-* Freddie Gibbs
-	** Alfredo
-		*** *1985*
-		*** *Scottie Beam*
-	** Bandana
-		*** *Freestyle Shit*
+* Freddie Gibbs - *1985*
+* Freddie Gibbs - *Scottie Beam*
+* Freddie Gibbs - *Freestyle Shit*
 
-* Joey Valence & BRAE
-	** NO HANDS
-		*** *NO HANDS*
+* Joey Valence & BRAE - *NO HANDS*
 
-* JPEGMAFIA
-	** Veteran
-		*** *1539 N. Calvert*
-		*** *Baby I'm Bleeding*
-		*** *Thug Tears*
-	** All My Heroes Are Cornballs
-		*** *Jesus Forgive Me, I Am A Thot*
-		*** *Grimy Waifu*
-		*** *PTSD*
-		*** *Free The Frail*
-		*** *Post Verified Lifestyle*
-	** LP!
-		*** *DIRTY!*
-	** OFFLINE!
-		*** *HAZARD DUTY PAY!*
-		*** *GOD DON'T LIKE UGLY!*
-		*** *DIKEMBE!*
+* JPEGMAFIA - *1539 N. Calvert*
+* JPEGMAFIA - *Baby I'm Bleeding*
+* JPEGMAFIA - *Thug Tears*
+* JPEGMAFIA - *Jesus Forgive Me, I Am A Thot*
+* JPEGMAFIA - *Grimy Waifu*
+* JPEGMAFIA - *PTSD*
+* JPEGMAFIA - *Free The Frail*
+* JPEGMAFIA - *Post Verified Lifestyle*
+* JPEGMAFIA - *DIRTY!*
+* JPEGMAFIA - *HAZARD DUTY PAY!*
+* JPEGMAFIA - *GOD DON'T LIKE UGLY!*
+* JPEGMAFIA - *DIKEMBE!*
 
-* Kendrick Lamar
-	** Section.80
-		*** *Poe Mans Dreams (His Vice)*
-		*** *Chapter Six*
-	** good kid, m.A.A.d. city
-		*** *The Art of Peer Pressure*
-		*** *Poetic Justice*
-		*** *Sing About Me, I'm Dying Of Thirst*
-	** To Pimp A Butterfly
-		*** *For Free?*
-		*** *u*
-		*** *Momma*
-		*** *You Ain't Gotta Lie (Momma Said)*
-		*** *Mortal Man*
-	** DAMN.
-		*** *FEAR.*
-		*** *XXX.*
-		*** *DUCKWORTH.*
-	** Mr. Morale
-		*** *United In Grief*
-		*** *Mother I Sober*
+* Kendrick Lamar - *Poe Mans Dreams (His Vice)*
+* Kendrick Lamar - *Chapter Six*
+* Kendrick Lamar - *The Art of Peer Pressure*
+* Kendrick Lamar - *Poetic Justice*
+* Kendrick Lamar - *Sing About Me, I'm Dying Of Thirst*
+* Kendrick Lamar - *For Free?*
+* Kendrick Lamar - *u*
+* Kendrick Lamar - *Momma*
+* Kendrick Lamar - *You Ain't Gotta Lie (Momma Said)*
+* Kendrick Lamar - *Mortal Man*
+* Kendrick Lamar - *FEAR.*
+* Kendrick Lamar - *XXX.*
+* Kendrick Lamar - *DUCKWORTH.*
+* Kendrick Lamar - *United In Grief*
+* Kendrick Lamar - *Mother I Sober*
 
-* Boldy James
-	** Fair Exchange No Robbery
-		*** *Town & Country*
+* Boldy James - *Town & Country*
 
-* Jeremiah Jae
-	** The Night Took Us in Like Family
-		*** *Taken by the Night*
-		*** *Kicking Glass*
+* Jeremiah Jae - *Taken by the Night*
+* Jeremiah Jae - *Kicking Glass*
 
 == Electronic
 
-* Aphex Twin
-	** Drukqs
-		*** *Vordhosbn*
-		*** *Avril 14th* (BTW, I made a chiptune cover of this! It's on https://modarchive.org/module.php?205897[TheModArchive] and https://www.youtube.com/watch?v=LcGW8usklVU[YouTube]!)
-	** Selected Ambient Works 85-92
-		*** *Xtal*
-		*** *Ageispolis*
-	** Richard D. James Album
-		*** *4*
-		*** *Fingerbib*
-		*** *Yellow Calx*
+* Aphex Twin - *Vordhosbn*
+* Aphex Twin - *Avril 14th* (BTW, I made a chiptune cover of this! It's on https://modarchive.org/module.php?205897[TheModArchive] and https://www.youtube.com/watch?v=LcGW8usklVU[YouTube]!)
+* Aphex Twin - *Xtal*
+* Aphex Twin - *Ageispolis*
+* Aphex Twin - *4*
+* Aphex Twin - *Fingerbib*
+* Aphex Twin - *Yellow Calx*
 
-* Burial
-	** Untrue
-		*** *Archangel*
-		*** *Near Dark*
-		*** *Ghost Hardware*
-		*** *In McDonalds*
-		*** *Untrue*
+* Burial - *Archangel*
+* Burial - *Near Dark*
+* Burial - *Ghost Hardware*
+* Burial - *In McDonalds*
+* Burial - *Untrue*
 
 == Experimental
 
-* Björk
-	** Vespertine
-		*** *Cocoon*
+* Björk - *Cocoon*
 
 == Pop
 
-* Noisettes
-	** Wild Young Hearts
-		*** *Never Forget You*
+* Noisettes - *Never Forget You*
 
